@@ -1,6 +1,6 @@
 <!doctype html>
 <html>
 <body>
-<button type="button" onclick"alert('guuuubbbbd')">click mee </button>
+<p><a herf="button.html">click mee!</a></p>
 </body>
 </html>
